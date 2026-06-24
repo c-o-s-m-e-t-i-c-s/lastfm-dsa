@@ -5,21 +5,20 @@
 
 ## **Data Pipeline:**
   1. Data Collection
-  
   2. Data Preparation
   3. EDA
-  - Play Count Distribution
-  - Tag / Genre Distribution
-  - Tag Count Per Artist
-  - Genre Correlation Heatmap
+    - Play Count Distribution
+    - Tag / Genre Distribution
+    - Tag Count Per Artist
+    - Genre Correlation Heatmap
   4. Data Modeling
-  - Clustering Algorithms
-    - K-Means 
-    - DBScan
+    - Clustering Algorithms
+      - K-Means 
+      - DBScan
   5. Recommendation Algorithm
-  - Generate candidate pool
-  - Fetch tags for candidates
-  - Transform candidates using TF-IDF
-  - Cosine Similarity
-  - Recommend by Cluster / Artist
+    - Generate candidate pool
+    - Fetch tags for candidates
+    - Transform candidates using TF-IDF
+    - Cosine Similarity
+    - Recommend by Cluster / Artist
   6. Model Evaluation
