@@ -1,0 +1,11 @@
+pylast
+python-dotenv
+scikit-learn
+scipy
+numpy
+pandas
+umap-learn
+matplotlib
+beautifulsoup4
+requests
+jupyter
