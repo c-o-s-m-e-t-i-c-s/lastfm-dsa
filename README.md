@@ -67,7 +67,7 @@
 
 ### **Running the notebook:**
 ```bash
-jupyter notebook "lastfm dsa.ipynb"
+    jupyter notebook "lastfm dsa.ipynb"
 ``` 
 1. Run all cells top to bottom.
 2. Optionally, set a different Last.fm username to run the pipeline on a different user's data:
