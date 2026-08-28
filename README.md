@@ -55,7 +55,7 @@
 ```bash
     cd lastfm-dsa
 ```
-3. Install dependencies:
+3. Download and install required dependencies from the repo:
 ```bash
     pip install -r requirements.txt
 ```
